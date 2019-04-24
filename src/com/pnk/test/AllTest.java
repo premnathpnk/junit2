@@ -15,7 +15,7 @@ import com.pnk.service.BankServiceImpl;
 
 public class AllTest {
  private static BankServiceImpl service;
- 
+ //prem
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
